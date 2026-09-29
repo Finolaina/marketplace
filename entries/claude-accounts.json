@@ -1,0 +1,32 @@
+{
+  "id": "claude-accounts",
+  "displayName": "Claude accounts",
+  "description": "See every Claude Code account in one usage panel and move a project to a free account when a turn hits a subscription limit. Runs on macOS and Linux, on the machine that holds your Claude Code logins.",
+  "icon": "Repeat",
+  "screenshots": [
+    "./screenshots/claude-accounts/provider-usage.png",
+    "./screenshots/claude-accounts/settings.png"
+  ],
+  "overview": "./overview/claude-accounts.md",
+  "tags": [
+    "claude-code",
+    "accounts",
+    "usage",
+    "rate-limits",
+    "quota",
+    "providers",
+    "subscription"
+  ],
+  "author": {
+    "name": "Aitor Mariscal",
+    "github": "Finolaina",
+    "url": "https://github.com/Finolaina"
+  },
+  "category": "token-usage-and-limits",
+  "source": {
+    "git": {
+      "url": "https://github.com/Finolaina/bb-plugin-claude-accounts.git",
+      "range": "^0.1.0"
+    }
+  }
+}
