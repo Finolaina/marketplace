@@ -1,13 +1,13 @@
 {
-  "id": "claude-accounts",
-  "displayName": "Claude accounts",
+  "id": "claude-switcher",
+  "displayName": "Claude Switcher",
   "description": "See every Claude Code account in one usage panel and move a project to a free account when a turn hits a subscription limit. Runs on macOS and Linux, on the machine that holds your Claude Code logins.",
   "icon": "Repeat",
   "screenshots": [
-    "./screenshots/claude-accounts/provider-usage.png",
-    "./screenshots/claude-accounts/settings.png"
+    "./screenshots/claude-switcher/provider-usage.png",
+    "./screenshots/claude-switcher/settings.png"
   ],
-  "overview": "./overview/claude-accounts.md",
+  "overview": "./overview/claude-switcher.md",
   "tags": [
     "claude-code",
     "accounts",
@@ -25,8 +25,8 @@
   "category": "token-usage-and-limits",
   "source": {
     "git": {
-      "url": "https://github.com/Finolaina/bb-plugin-claude-accounts.git",
-      "range": "^0.1.0"
+      "url": "https://github.com/Finolaina/bb-plugin-claude-switcher.git",
+      "range": "^0.2.0"
     }
   }
 }
