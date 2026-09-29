@@ -1,7 +1,7 @@
 {
   "id": "claude-switcher",
   "displayName": "Claude Switcher",
-  "description": "See every Claude Code account in one usage panel and move a project to a free account when a turn hits a subscription limit. Runs on macOS and Linux, on the machine that holds your Claude Code logins.",
+  "description": "See every Claude Code account in one usage panel, start new projects on the best account and move a project to a free account when a turn hits a subscription limit. Runs on macOS and Linux, on the machine that holds your Claude Code logins.",
   "icon": { "url": "./icons/claude-switcher-6feaa374.svg" },
   "screenshots": [
     "./screenshots/claude-switcher/provider-usage.png",
@@ -26,7 +26,7 @@
   "source": {
     "git": {
       "url": "https://github.com/Finolaina/bb-plugin-claude-switcher.git",
-      "range": "^0.2.1"
+      "range": "^0.2.2"
     }
   }
 }
